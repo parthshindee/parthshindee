@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello there, I'm Parth Shinde!
 
-<!--
-**parthshindee/parthshindee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about learning and working on new and exciting projects.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sharping my skills in full-stack development
+- Exploring ML and learning how to deploy an ML project using TensorFlow Serving
+- Excited about playing around with OpenAI's API and learning about Algo/Quant Trading
+
+## 🤝 Let's Collaborate
+
+Reach out to me either on [LinkedIn](https://www.linkedin.com/in/parth-shinde/) or [Email](parthanjali04@gmail.com)

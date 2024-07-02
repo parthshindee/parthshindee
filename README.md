@@ -10,4 +10,4 @@ I'm a software developer passionate about learning and working on new and exciti
 
 ## 🤝 Let's Collaborate
 
-Reach out to me either on [LinkedIn](https://www.linkedin.com/in/parth-shinde/) or [Email](parthanjali04@gmail.com)
+Reach out to me either on [LinkedIn](https://www.linkedin.com/in/parth-shinde/) or [Email](mailto:parthanjali04@gmail.com)

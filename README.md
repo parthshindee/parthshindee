@@ -7,7 +7,6 @@ I'm a software developer passionate about learning and working on new and exciti
 - Sharping my skills in full-stack development
 - Exploring ML and learning how to deploy an ML project using TensorFlow Serving
 - Excited about playing around with OpenAI's API and learning about Algo/Quant Trading
-- Gaining DevOps experience by containerizing my existing projects in Docker and learning orchestration using Kubernetes, hosting them on AWS (EKS)
 
 ## 🤝 Let's Collaborate
 

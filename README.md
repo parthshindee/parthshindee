@@ -10,4 +10,11 @@ I'm a software developer passionate about learning and working on new and exciti
 
 ## 🤝 Let's Collaborate
 
-Reach out to me either on [LinkedIn](https://www.linkedin.com/in/parth-shinde/) or [Email](mailto:parthanjali04@gmail.com)
+<div align="left">
+  <a href="parthanjali04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/parth-shinde/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
